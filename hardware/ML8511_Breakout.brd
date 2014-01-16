@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -125,15 +125,15 @@
 <wire x1="15.24" y1="15.24" x2="0" y2="15.24" width="0.3048" layer="20"/>
 <text x="13.462" y="0.762" size="1.4224" layer="16" font="vector" ratio="20" rot="MR90">v10</text>
 <text x="15.24" y="-10.16" size="1.778" layer="48" font="vector" ratio="15">N. Seidle</text>
-<text x="12.065" y="2.667" size="1.27" layer="21" font="vector" ratio="15" rot="R90">3.3</text>
+<text x="12.065" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">3.3</text>
 <text x="1.905" y="3.175" size="1.27" layer="21" font="vector" ratio="15" rot="SR90">MP8511</text>
-<text x="9.525" y="2.667" size="1.27" layer="21" font="vector" ratio="15" rot="R90">GND</text>
-<text x="6.985" y="2.667" size="1.27" layer="21" font="vector" ratio="15" rot="R90">OUT</text>
-<text x="4.445" y="2.667" size="1.27" layer="21" font="vector" ratio="15" rot="R90">EN</text>
-<text x="10.795" y="2.667" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">3.3V</text>
-<text x="8.255" y="2.667" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">GND</text>
-<text x="5.715" y="2.667" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">OUT</text>
-<text x="3.175" y="3.048" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">EN</text>
+<text x="9.525" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">GND</text>
+<text x="6.985" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">OUT</text>
+<text x="4.445" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">EN</text>
+<text x="10.795" y="2.794" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">3.3V</text>
+<text x="8.255" y="2.794" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">GND</text>
+<text x="5.715" y="2.794" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">OUT</text>
+<text x="3.175" y="2.794" size="1.27" layer="22" font="vector" ratio="15" rot="MR90">EN</text>
 <text x="14.478" y="0.635" size="1.27" layer="21" font="vector" ratio="15" rot="R90">UV Sensor</text>
 <rectangle x1="6.604" y1="9.271" x2="8.636" y2="11.176" layer="41"/>
 <rectangle x1="9.017" y1="11.049" x2="9.144" y2="11.176" layer="41"/>

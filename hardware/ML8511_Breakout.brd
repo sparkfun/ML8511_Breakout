@@ -26,7 +26,7 @@
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="19" name="Unrouted" color="14" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -126,7 +126,7 @@
 <text x="13.462" y="0.762" size="1.4224" layer="16" font="vector" ratio="20" rot="MR90">v10</text>
 <text x="15.24" y="-10.16" size="1.778" layer="48" font="vector" ratio="15">N. Seidle</text>
 <text x="12.065" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">3.3</text>
-<text x="1.905" y="3.175" size="1.27" layer="21" font="vector" ratio="15" rot="SR90">MP8511</text>
+<text x="1.905" y="3.175" size="1.27" layer="21" font="vector" ratio="15" rot="SR90">ML8511</text>
 <text x="9.525" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">GND</text>
 <text x="6.985" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">OUT</text>
 <text x="4.445" y="2.794" size="1.27" layer="21" font="vector" ratio="15" rot="R90">EN</text>

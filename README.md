@@ -1,9 +1,9 @@
 ML8511 UV Sensor Breakout
 =========================
 
-[![ML8511 UV Sensor](https://cdn.sparkfun.com/assets/parts/9/4/4/4/12705-01.jpg)](https://cdn.sparkfun.com/assets/parts/9/4/4/4/12705-01.jpg)
+[![ML8511 UV Sensor](https://cdn.sparkfun.com/assets/parts/9/4/4/4/12705-01.jpg)](https://www.sparkfun.com/products/12705)
 
--> *ML8511 UV Sensor [SEN-12705](https://www.sparkfun.com/products/12705)* <-
+[*ML8511 UV Sensor (SEN-12705)*](https://www.sparkfun.com/products/12705)
 
 The ML8511 sensor detects ultraviolet light in the 280 to 390nm range.
 
